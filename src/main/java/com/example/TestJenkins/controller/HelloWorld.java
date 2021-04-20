@@ -9,7 +9,7 @@ public class HelloWorld {
 	@GetMapping("/")
 	public String Hello() {
 		
-		return "Hello World ! ";
+		return "Hello World Lively! ";
 	}
 
 }
