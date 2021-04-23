@@ -14,6 +14,7 @@ public class TestJenkinsApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("Hello World Lively");
+		error
 		
 	}
 
